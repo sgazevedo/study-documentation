@@ -1,0 +1,15 @@
+C:\pessoal\Estudos\DesignPatterns\Criacionais\Factory\SimpleFactory\bin\Debug\net6.0\SimpleFactory.exe
+c:\pessoal\Estudos\DesignPatterns\Criacionais\Factory\SimpleFactory\bin\Debug\net6.0\SimpleFactory.deps.json
+c:\pessoal\Estudos\DesignPatterns\Criacionais\Factory\SimpleFactory\bin\Debug\net6.0\SimpleFactory.runtimeconfig.json
+C:\pessoal\Estudos\DesignPatterns\Criacionais\Factory\SimpleFactory\bin\Debug\net6.0\SimpleFactory.dll
+C:\pessoal\Estudos\DesignPatterns\Criacionais\Factory\SimpleFactory\bin\Debug\net6.0\SimpleFactory.pdb
+C:\pessoal\Estudos\DesignPatterns\Criacionais\Factory\SimpleFactory\obj\Debug\net6.0\SimpleFactory.csproj.AssemblyReference.cache
+C:\pessoal\Estudos\DesignPatterns\Criacionais\Factory\SimpleFactory\obj\Debug\net6.0\SimpleFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\pessoal\Estudos\DesignPatterns\Criacionais\Factory\SimpleFactory\obj\Debug\net6.0\SimpleFactory.AssemblyInfoInputs.cache
+C:\pessoal\Estudos\DesignPatterns\Criacionais\Factory\SimpleFactory\obj\Debug\net6.0\SimpleFactory.AssemblyInfo.cs
+C:\pessoal\Estudos\DesignPatterns\Criacionais\Factory\SimpleFactory\obj\Debug\net6.0\SimpleFactory.csproj.CoreCompileInputs.cache
+C:\pessoal\Estudos\DesignPatterns\Criacionais\Factory\SimpleFactory\obj\Debug\net6.0\SimpleFactory.dll
+C:\pessoal\Estudos\DesignPatterns\Criacionais\Factory\SimpleFactory\obj\Debug\net6.0\refint\SimpleFactory.dll
+C:\pessoal\Estudos\DesignPatterns\Criacionais\Factory\SimpleFactory\obj\Debug\net6.0\SimpleFactory.pdb
+c:\pessoal\Estudos\DesignPatterns\Criacionais\Factory\SimpleFactory\obj\Debug\net6.0\SimpleFactory.genruntimeconfig.cache
+c:\pessoal\Estudos\DesignPatterns\Criacionais\Factory\SimpleFactory\obj\Debug\net6.0\ref\SimpleFactory.dll
